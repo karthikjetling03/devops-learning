@@ -60,4 +60,4 @@ Want to set up **Terraform + SonarQube in CI/CD**? Explore advanced configuratio
 
 ---
 📌 **Author:** Karthik Jetling  
-📌 **GitHub:** [CodeByKarthik](https://github.com/CodeByKarthik)
+📌 **GitHub:** [KarthikDevOps](https://github.com/karthikjetling03)
